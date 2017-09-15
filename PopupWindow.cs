@@ -37,7 +37,7 @@ namespace OldCityBuild0
                 for (int j = 0; j < pHtmlPopupDisplay.AttachLinks.Count; j++)
                 {
                     Image.GetThumbnailImageAbort abortCallback = new Image.GetThumbnailImageAbort(this.target);
-                    dataGridView2.Rows[j].Cells[0].Value = Image.FromFile(attachmentImagesLink[j]).GetThumbnailImage(700, 512, abortCallback, System.IntPtr.Zero);
+                    dataGridView2.Rows[j].Cells[0].Value = Image.FromFile(attachmentImagesLink[j]).GetThumbnailImage(512,400, abortCallback, System.IntPtr.Zero);
                 }
             }
         }

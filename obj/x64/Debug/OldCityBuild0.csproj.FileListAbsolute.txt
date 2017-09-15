@@ -1,0 +1,12 @@
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\x64\Debug\OldCityBuild0.exe.manifest
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\x64\Debug\OldCityBuild0.application
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\x64\Debug\OldCityBuild0.exe
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\x64\Debug\OldCityBuild0.pdb
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.Form1.resources
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.PopupWindow.resources
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.Properties.Resources.resources
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.csproj.GenerateResource.Cache
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.exe.manifest
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.application
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.exe
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x64\Debug\OldCityBuild0.pdb

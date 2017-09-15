@@ -1,0 +1,26 @@
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.exe
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.pdb
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.csprojResolveAssemblyReference.cache
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.Properties.Resources.resources
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.csproj.GenerateResource.Cache
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.exe
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.pdb
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.Form1.resources
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.PopupWindow.resources
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.exe.manifest
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.application
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.exe.manifest
+F:\ArcEngine Sandbox\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.application
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.exe
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.pdb
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.csprojResolveAssemblyReference.cache
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.Form1.resources
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.PopupWindow.resources
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.Properties.Resources.resources
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.csproj.GenerateResource.Cache
+D:\Migrated\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.exe.manifest
+D:\Migrated\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.application
+D:\Migrated\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.exe
+D:\Migrated\OldCityBuild0\OldCityBuild0\bin\Debug\OldCityBuild0.pdb
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.exe.manifest
+D:\Migrated\OldCityBuild0\OldCityBuild0\obj\x86\Debug\OldCityBuild0.application

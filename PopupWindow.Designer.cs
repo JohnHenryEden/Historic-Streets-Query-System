@@ -31,10 +31,10 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.属性名称 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.属性内容 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.相关图片 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.属性名称 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.属性内容 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
@@ -55,25 +55,14 @@
             dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle1;
-            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
             this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.RowTemplate.Height = 27;
-            this.dataGridView1.Size = new System.Drawing.Size(845, 402);
+            this.dataGridView1.Size = new System.Drawing.Size(845, 959);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-            // 
-            // 属性名称
-            // 
-            this.属性名称.HeaderText = "属性名称";
-            this.属性名称.Name = "属性名称";
-            this.属性名称.Width = 400;
-            // 
-            // 属性内容
-            // 
-            this.属性内容.HeaderText = "属性内容";
-            this.属性内容.Name = "属性内容";
-            this.属性内容.Width = 400;
             // 
             // dataGridView2
             // 
@@ -91,13 +80,13 @@
             this.dataGridView2.DefaultCellStyle = dataGridViewCellStyle2;
             this.dataGridView2.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.dataGridView2.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
-            this.dataGridView2.Location = new System.Drawing.Point(0, 445);
+            this.dataGridView2.Location = new System.Drawing.Point(0, 432);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowHeadersVisible = false;
             this.dataGridView2.RowTemplate.Height = 27;
             this.dataGridView2.ShowCellErrors = false;
             this.dataGridView2.ShowEditingIcon = false;
-            this.dataGridView2.Size = new System.Drawing.Size(845, 469);
+            this.dataGridView2.Size = new System.Drawing.Size(845, 527);
             this.dataGridView2.TabIndex = 1;
             // 
             // 相关图片
@@ -106,11 +95,24 @@
             this.相关图片.HeaderText = "相关图片";
             this.相关图片.Name = "相关图片";
             // 
+            // 属性名称
+            // 
+            this.属性名称.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
+            this.属性名称.HeaderText = "属性名称";
+            this.属性名称.Name = "属性名称";
+            this.属性名称.Width = 200;
+            // 
+            // 属性内容
+            // 
+            this.属性内容.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.属性内容.HeaderText = "属性内容";
+            this.属性内容.Name = "属性内容";
+            // 
             // PopupWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(845, 914);
+            this.ClientSize = new System.Drawing.Size(845, 959);
             this.Controls.Add(this.dataGridView2);
             this.Controls.Add(this.dataGridView1);
             this.MaximizeBox = false;
@@ -127,10 +129,10 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn 属性名称;
-        private System.Windows.Forms.DataGridViewTextBoxColumn 属性内容;
         private System.Windows.Forms.DataGridView dataGridView2;
         private System.Windows.Forms.DataGridViewImageColumn 相关图片;
+        private System.Windows.Forms.DataGridViewTextBoxColumn 属性名称;
+        private System.Windows.Forms.DataGridViewTextBoxColumn 属性内容;
 
 
 

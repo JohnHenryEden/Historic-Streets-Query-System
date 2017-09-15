@@ -7,8 +7,8 @@ namespace OldCityBuild0
 {
     public class HTMLPopupDisplayClass
     {
-        public List<string> FieldNames;
-        public List<string> FieldValues;
-        public List<string> AttachLinks;
+        public List<string> FieldNames { get;set; }//属性字段名称
+        public List<string> FieldValues { get; set; }//属性内容
+        public List<string> AttachLinks { get; set; }//附件图片链接
     }
 }
